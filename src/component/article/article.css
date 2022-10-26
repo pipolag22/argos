@@ -20,3 +20,9 @@
 body {
   margin: 0;
 }
+.titulo {
+  color: #bf046b;
+}
+.description {
+  color: #191919;
+}

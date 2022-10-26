@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="info">
-        <p>Avenida Siempre Viva 12312 - Tel: 223432123</p>
+        <p>argos.plataformadigital@gmail.com - Tel +54 341 362 6491</p>
 
         <p>COPYRIGHT © 2022 ARGOS</p>
       </div>
