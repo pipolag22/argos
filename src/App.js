@@ -1,12 +1,12 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
-import Layout from "./component/Layout";
-import MediaArticle from "./component/MediaArticle";
-import Presentation from "./component/Presentation";
-import Footer from "./component/Footer";
-import Navbar from "./component/Navbar";
-import ArticleContainer from "./component/articleContainer";
-import EmbedMediaArticle from "./component/EmbedMediaArticle";
+import Layout from "./component/layout/Layout";
+import MediaArticle from "./component/article/MediaArticle";
+// import Presentation from "./component/presentation/Presentation";
+import Footer from "./component/footer/Footer";
+import Navbar from "./component/navbar/Navbar";
+import ArticleContainer from "./component/article/articleContainer";
+import EmbedMediaArticle from "./component/article/EmbedMediaArticle";
 
 function App() {
   return (

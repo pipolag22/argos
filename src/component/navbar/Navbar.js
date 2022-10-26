@@ -1,5 +1,5 @@
 import React from "react";
-import imagelogo from "../images/argos-logo-oscuro.png";
+import imagelogo from "../../images/argos-logo-oscuro.png";
 
 const Navbar = () => {
   return (

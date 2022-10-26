@@ -1,6 +1,6 @@
 import React from "react";
-import icon1 from "../images/icons/instagram.png";
-import icon2 from "../images/icons/youtube.png";
+import icon1 from "../../images/icons/instagram.png";
+import icon2 from "../../images/icons/youtube.png";
 
 const Footer = () => {
   return (
