@@ -11,6 +11,9 @@ const MediaArticle = () => {
         <div className="titulo">
           <h3>Lorem ipsum dolor sit amet</h3>
         </div>
+        <div className="subtitulo">
+          <h4>Lorem ipsum dolor sit amet</h4>
+        </div>
         <div className="description">
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
