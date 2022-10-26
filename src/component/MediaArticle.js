@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../images/descarga.jpg";
+import img from "../images/diablo4.png";
 
 const MediaArticle = () => {
   return (
