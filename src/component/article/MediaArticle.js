@@ -1,6 +1,6 @@
 import React from "react";
 import img from "../../images/diablo4.png";
-
+import "./article.css";
 const MediaArticle = () => {
   return (
     <div className="nota w-50 p-3 mt-6 mb-6">

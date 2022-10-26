@@ -1,4 +1,5 @@
 import React from "react";
+import "./footer.css";
 import icon1 from "../../images/icons/instagram.png";
 import icon2 from "../../images/icons/youtube.png";
 
