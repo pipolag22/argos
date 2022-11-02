@@ -7,6 +7,7 @@ import Navbar from "./component/navbar/Navbar";
 import ArticleContainer from "./component/article/articleContainer";
 import EmbedMediaArticle from "./component/article/EmbedMediaArticle";
 import TextArticle from "./component/article/textArticle";
+import Coment from "./component/article/comentario";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <MediaArticle />
         <EmbedMediaArticle />
         <TextArticle />
+        <Coment />
       </ArticleContainer>
       <Footer />
     </Layout>
