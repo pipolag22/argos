@@ -6,7 +6,7 @@ import icon2 from "../../images/icons/youtube.png";
 const Footer = () => {
   return (
     <div className="footer">
-      <div id="redes">
+      <div className="redes">
         <div>
           <a
             href="https://www.instagram.com/argos.pd/"

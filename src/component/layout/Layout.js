@@ -1,8 +1,19 @@
 import React from "react";
-import "./layout.css";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import Artic1 from "../pages/Artic1";
+import Home from "../pages/Home";
 
-const layout = ({ children }) => {
-  return <div className="container">{children}</div>;
+const layout = () => {
+  return (
+    <>
+      <Router>
+        <Routes>
+          <Route element={<Home/>} path="/" />
+          <Route element={<Artic1/>} path="/artic1"/>
+        </Routes>
+      </Router>
+    </>
+)
 };
 
 export default layout;

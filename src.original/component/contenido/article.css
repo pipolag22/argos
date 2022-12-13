@@ -1,0 +1,46 @@
+.nota {
+  background: rgba(30, 30, 40, 0.91);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(11.8px);
+  -webkit-backdrop-filter: blur(11.8px);
+  margin: 10px;
+}
+.description {
+  font-size: 0.875rem;
+  color: #eeefef;
+  font-weight: 400;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.articleContainer {
+  padding: 15px 0;
+  ;
+}
+.media{
+  margin-bottom: 5px;
+  
+  
+}
+.media iframe {
+  width: 100%;
+}
+body {
+  margin: 0;
+  background-image: url('../../images/fondo1.png');
+  background-size: cover;
+}
+.titulo {
+  color: #eeefef;
+  font-family: 'Bebas Neue', cursive;
+}
+.subtitulo {
+  color: #bf046b;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+}
+
+.labels{
+  color: #efefef;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+}
